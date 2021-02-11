@@ -51,6 +51,7 @@ Not only were web servers taken offline by a DDOS attack, but upload and downloa
 
 1.  Upload the following file of the system speeds around the time of the attack.
     - [Speed Test File](resources/server_speedtest.csv)
+![TODO: Update the path with the name of your diagram](Pictures/pic1.png)
 
 2. Using the `eval` command, create a field called `ratio` that shows the ratio between the upload and download speeds.
    - Hint: The format for creating a ratio is: `| eval new_field_name = 'fieldA'  / 'fieldB'`
@@ -63,7 +64,7 @@ Not only were web servers taken offline by a DDOS attack, but upload and downloa
     - `ratio`
   
    Hint: Use the following format when for the `table` command: `| table fieldA  fieldB fieldC`
-
+![TODO: Update the path with the name of your diagram](Pictures/pic2.png)
 4. Answer the following questions:
 
     - Based on the report created, what is the approximate date and time of the attack?
