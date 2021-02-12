@@ -71,7 +71,12 @@ Not only were web servers taken offline by a DDOS attack, but upload and downloa
 4. Answer the following questions:
 
     - Based on the report created, what is the approximate date and time of the attack?
+    
+    The attack occurred approximately on 2020-02-23 at 14:30:00.
+    
     - How long did it take your systems to recover?
+
+It approximately nine hours for the system to recover.
 
 Submit a screen shot of your report and the answer to the questions above.
  
