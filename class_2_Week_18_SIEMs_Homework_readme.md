@@ -120,6 +120,9 @@ Submit a screenshot of your report and a screenshot of proof that the alert has 
 
 2. When did the brute force attack occur?
    - Hints:
+     
+     ![TODO: Update the path with the name of your diagram](Pictures/bruteforce1.png)
+     
      - Look for the `name` field to find failed logins.
      - Note the attack lasted several hours.
 
