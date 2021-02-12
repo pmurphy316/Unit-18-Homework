@@ -129,7 +129,15 @@ Submit a screenshot of your report and a screenshot of proof that the alert has 
       
 3. Determine a baseline of normal activity and a threshold that would alert if a brute force attack is occurring.
 
+THe baseline of normal activity will be less then 90 failed logins per hour.  If more then 90 failed logins happen  within an hour an alert of a brute force attack will be sent.
+
 4. Design an alert to check the threshold every hour and email the SOC team at SOC@vandalay.com if triggered. 
+
+ ![TODO: Update the path with the name of your diagram](Pictures/bruteforce2.png)
+ 
+  ![TODO: Update the path with the name of your diagram](Pictures/bruteforce3.png)
+  
+   ![TODO: Update the path with the name of your diagram](Pictures/bruteforce4.png)
 
 Submit the answers to the questions about the brute force timing, baseline and threshold. Additionally, provide a screenshot as proof that the alert has been created.
  
