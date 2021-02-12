@@ -76,7 +76,7 @@ Not only were web servers taken offline by a DDOS attack, but upload and downloa
     
     - How long did it take your systems to recover?
 
-It approximately nine hours for the system to recover.
+It took approximately nine hours for the system to recover.
 
 Submit a screen shot of your report and the answer to the questions above.
  
@@ -94,8 +94,16 @@ Submit a screen shot of your report and the answer to the questions above.
 2. Create a report that shows the `count` of critical vulnerabilities from the customer database server.
    - The database server IP is `10.11.36.23`.
    - The field that identifies the level of vulnerabilities is `severity`.
-      
+  
+  ![TODO: Update the path with the name of your diagram](Pictures/pic4.png)  
+  
 3. Build an alert that monitors every day to see if this server has any critical vulnerabilities. If a vulnerability exists, have an alert emailed to `soc@vandalay.com`.
+
+![TODO: Update the path with the name of your diagram](Pictures/email1.png)
+
+![TODO: Update the path with the name of your diagram](Pictures/email2.png)
+
+![TODO: Update the path with the name of your diagram](Pictures/email3.png)
 
 Submit a screenshot of your report and a screenshot of proof that the alert has been created.
 
