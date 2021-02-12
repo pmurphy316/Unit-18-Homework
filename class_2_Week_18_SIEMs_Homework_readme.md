@@ -118,7 +118,10 @@ Submit a screenshot of your report and a screenshot of proof that the alert has 
 1. Upload the administrator login logs.
    - [Admin Logins](resources/Administrator_logs.csv)
 
-2. When did the brute force attack occur?
+2. When did the brute force attack occur? 
+
+The Brute force attack occurred approximately at 9:00 AM on February 21, 2020 and lasted for five hours.
+
    - Hints:
      
      ![TODO: Update the path with the name of your diagram](Pictures/bruteforce1.png)
